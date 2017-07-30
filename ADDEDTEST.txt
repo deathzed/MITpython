@@ -1,4 +1,0 @@
-This is a test file of the new branch newMITbranch
-the second line
-the third line
-the fourth line
